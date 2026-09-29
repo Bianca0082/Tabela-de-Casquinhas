@@ -1,0 +1,41 @@
+/*--
+Descricao: Tabelas e Dados Tabulados. Estruturação
+nome_arquivo: style.css
+nome_exercicio: Atividade 11 - Tabelas e Dados Tabulados. Estruturação
+nome_aluno: Bianca Heloisa Menezio Arruda
+email_aluno: bianca.arruda01@aluno.cps.sp.gov.br
+turma: WEBI-ISW028-A
+--*/
+
+body {
+    font-family: Arial;
+    background-color: #e6e4fc;
+    color: #333333;
+    padding: 30px;
+    margin: 0px;
+}
+
+table {
+    width: 600px;
+    border-collapse: collapse;
+    background-color: #ffffff;
+}
+
+th {
+    background-color: #d81b60;
+    color: #ffffff;
+    padding: 12px;
+    font-size: 18px;
+    text-align: center;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #cccccc;
+}
+
+img {
+    width: 60px;
+    height: 60px;
+}
